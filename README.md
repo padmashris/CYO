@@ -1,0 +1,6 @@
+# customerchurn
+Contains the files for the Create Your Own Project as a part of Harvardx's Data Science course.
+
+Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
+Different customers exhibit different behaviours and preferences, so they cancel their subscriptions for various reasons. It is critical, therefore, to proactively communicate with each of them in order to retain them in your customer list.
+Harnessed properly, churn prediction can be a major asset in getting a clearer picture of your customers’ experience with your product. Although the range of potential factors behind churn can be complex, stopping churn often revolves around a tailored approach to improving customer experience. Churn prediction gives you the chance to improve a customer’s experience before they leave for good.
